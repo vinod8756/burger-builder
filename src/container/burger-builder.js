@@ -14,7 +14,7 @@ class Burgerbuilder extends Component {
         ingredients : {
             cheese : 0,
             meat : 0,
-            salad : 0
+            salad : 1
         },
       totalprice : 4
        

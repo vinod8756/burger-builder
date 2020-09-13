@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './burgeringredient.css'
-import PropType from 'prop-types'
+import PropType from 'prop-types'3
 
 
 
